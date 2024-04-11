@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: ReWork: Change the Way You Work Forever By David Heinemeier Hansson (Author), Jason Fried (Author)	</title>
+	<atom:link href="/index.php/product/rework-change-the-way-you-work-forever-by-david-heinemeier-hansson-author-jason-fried-author/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/product/rework-change-the-way-you-work-forever-by-david-heinemeier-hansson-author-jason-fried-author/</link>
+	<description></description>
+	<lastBuildDate>Tue, 02 Apr 2024 04:06:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+</channel>
+</rss>

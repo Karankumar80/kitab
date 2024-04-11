@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stationery Items &#8211; kitabwalah.com</title>
+	<atom:link href="/index.php/product-category/stationery/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Mar 2024 12:40:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/cropped-kw-23-32x32.png</url>
+	<title>Stationery Items &#8211; kitabwalah.com</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Woodsnipe Single Line Notebooks</title>
+		<link>/index.php/product/woodsnipe-single-line-notebooks/</link>
+					<comments>/index.php/product/woodsnipe-single-line-notebooks/#respond</comments>
+		
+		<dc:creator><![CDATA[kitabwalah]]></dc:creator>
+		<pubDate>Fri, 26 Jan 2024 08:04:47 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=10680</guid>
+
+					<description><![CDATA[<p> &#124; Small Single Line Copy &#124; 176 Ruled Pages &#124; Soft Brown Cover &#124; 18 cm x 24 cm Approx &#124; Pack of 16 Books &#124; For School, College and Office Use &#124; GSM 60 Regular Notebook Ruled Pages 2816 Pages  (Brown, Pack of 16)</p>]]></description>
+										<content:encoded><![CDATA[<p><br data-mce-bogus="1"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/woodsnipe-single-line-notebooks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cello Aspro Mavro Ball Pen  (Pack of 50, Blue, Black, Red)</title>
+		<link>/index.php/product/cello-aspro-mavro-ball-pen-pack-of-50-blue-black-red/</link>
+					<comments>/index.php/product/cello-aspro-mavro-ball-pen-pack-of-50-blue-black-red/#respond</comments>
+		
+		<dc:creator><![CDATA[kitabwalah]]></dc:creator>
+		<pubDate>Fri, 26 Jan 2024 08:00:29 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=10677</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/cello-aspro-mavro-ball-pen-pack-of-50-blue-black-red/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

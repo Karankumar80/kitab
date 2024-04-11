@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; kitabwalah.com</title>
+	<atom:link href="/index.php/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 07 Apr 2024 18:25:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/cropped-kw-23-32x32.png</url>
+	<title>Uncategorized &#8211; kitabwalah.com</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Oxford Advanced Learner&#8217;s Dictionary (Used Book)</title>
+		<link>/index.php/product/oxford-advanced-learners-dictionary-used-book/</link>
+					<comments>/index.php/product/oxford-advanced-learners-dictionary-used-book/#respond</comments>
+		
+		<dc:creator><![CDATA[kitabwalahself]]></dc:creator>
+		<pubDate>Sun, 07 Apr 2024 18:25:31 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/oxford-advanced-learners-dictionary-used-book/</guid>
+
+					<description><![CDATA[<p><br data-mce-bogus="1"></p>]]></description>
+										<content:encoded><![CDATA[<p><br data-mce-bogus="1"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/oxford-advanced-learners-dictionary-used-book/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>(Used Book) Hanumaan Bhakti Prampra aur Sahitya (Dr Ved Prakash Pandey)</title>
+		<link>/index.php/product/used-book-hanumaan-bhakti-prampra-aur-sahitya-dr-ved-prakash-pandey/</link>
+					<comments>/index.php/product/used-book-hanumaan-bhakti-prampra-aur-sahitya-dr-ved-prakash-pandey/#respond</comments>
+		
+		<dc:creator><![CDATA[kitabwalahself]]></dc:creator>
+		<pubDate>Sun, 07 Apr 2024 17:55:35 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/used-book-hanumaan-bhakti-prampra-aur-sahitya-dr-ved-prakash-pandey/</guid>
+
+					<description><![CDATA[<p><br data-mce-bogus="1"></p>]]></description>
+										<content:encoded><![CDATA[<p><br data-mce-bogus="1"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/used-book-hanumaan-bhakti-prampra-aur-sahitya-dr-ved-prakash-pandey/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>(Used Book) Gokul Mathura Dwarka &#8211; Hindi Edition by Raghuveer Chaudhary (Author)</title>
+		<link>/index.php/product/used-book-gokul-mathura-dwarka-hindi-edition-by-raghuveer-chaudhary-author/</link>
+					<comments>/index.php/product/used-book-gokul-mathura-dwarka-hindi-edition-by-raghuveer-chaudhary-author/#respond</comments>
+		
+		<dc:creator><![CDATA[kitabwalahself]]></dc:creator>
+		<pubDate>Sun, 07 Apr 2024 17:52:52 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/used-book-gokul-mathura-dwarka-hindi-edition-by-raghuveer-chaudhary-author/</guid>
+
+					<description><![CDATA[<p><br data-mce-bogus="1"></p>]]></description>
+										<content:encoded><![CDATA[<p><br data-mce-bogus="1"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/used-book-gokul-mathura-dwarka-hindi-edition-by-raghuveer-chaudhary-author/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
